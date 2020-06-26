@@ -1,0 +1,26 @@
+app component
+<Div>
+    <input/>
+    <input/>
+    <input/>
+    <input/>
+    <input/>
+    <input/>
+    <textarea/>
+    <button>Submit</button>
+</Div>
+
+
+badge component
+<div>
+    <h1></h1>
+    <div>
+        <output></output>
+        <output></output>
+        <output></output>
+        <output></output>
+        <output></output>
+        <output></output>
+        <output></output>
+    </div>
+</div>

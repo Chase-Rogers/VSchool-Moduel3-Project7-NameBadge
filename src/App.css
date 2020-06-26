@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+form {
+  border: 2px solid black;
+  width: 50vw;
+  height: 40vh;
+  border-radius: 25px;
+  margin: auto;
+  margin-top: 5vh;
+}
+
+input {
+  width: 20vw;
+  margin: 1vw;
+}
+
+textarea {
+  width: 42vw;
+}
+
+.headings1{
+  background-color: green;
+  text-align: start;
+  border: 2px solid black;
+  height: 5vh;
+  border-radius: 23px 23px 0px 0px;
+  padding-left: 1vw;
+}
+
+.headings2{
+  background-color: red;
+  text-align: start;
+  border: 2px solid black;
+  height: 5vh;
+  border-radius: 23px 23px 0px 0px;
+  padding-left: 1vw;
+}
